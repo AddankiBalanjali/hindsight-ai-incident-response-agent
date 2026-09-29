@@ -1,0 +1,8 @@
+{
+  "name": "Hindsight AI Incident Response Agent",
+  "description": "Autonomous AI incident triage, Groq-powered diagnosis, official Hindsight long-term memory recall, and safe human-in-the-loop SRE remediation system for HACKWITHHYDERABAD 3.0.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
